@@ -1,0 +1,12 @@
+c:\users\neko\documents\visual studio 2010\Projects\mooEditor\mooEditor\bin\Debug\mooEditor.exe
+c:\users\neko\documents\visual studio 2010\Projects\mooEditor\mooEditor\bin\Debug\mooEditor.pdb
+c:\users\neko\documents\visual studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.Properties.Resources.resources
+c:\users\neko\documents\visual studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.exe
+c:\users\neko\documents\visual studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.pdb
+c:\users\neko\documents\visual studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.mooEditor.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.findDialog.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.JumpDialog.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.SettingDialog.resources
+C:\Users\neko\Documents\Visual Studio 2010\Projects\mooEditor\mooEditor\bin\Debug\mooEditor.exe.config
+C:\Users\neko\Documents\Visual Studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.csprojResolveAssemblyReference.cache
+C:\Users\neko\Documents\Visual Studio 2010\Projects\mooEditor\mooEditor\obj\x86\Debug\mooEditor.csproj.GenerateResource.Cache
